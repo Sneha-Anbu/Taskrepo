@@ -35,7 +35,7 @@ public class Calculator {
                    System.out.println("Error: Modulo by zero!");
                 } else {
                    result = num1 % num2;
-                    System.out.println(result;
+                    System.out.println(result);
                    }
                 break;
             default:
